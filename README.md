@@ -1,6 +1,4 @@
-# power_ranger
-
-POWER RANGAAAS
+# POWER RANGAAS
 
 Create 3 models for a Power Ranger class, battle class, and enemy class. A power ranger has many battles, an enemy has many battles and a battle belongs to a power ranger and enemy. The power ranger class has attributes that follow: a name that must not be empty, a color that must be unique, a weapon (string). Create an index and show page for the power ranger class. 
 
